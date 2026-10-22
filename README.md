@@ -29,6 +29,8 @@ Edit `.env` and set:
 
 ## Data
 
+Download MVX-Bench from [Hugging Face](https://huggingface.co/datasets/MVX-bench/MVX-Bench).
+
 The input is a JSON list:
 
 ```json
