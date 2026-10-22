@@ -1,0 +1,15 @@
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+numpy==2.0.2
+pillow==11.3.0
+tqdm==4.66.5
+openai==2.8.1
+vllm==0.11.0
+transformers==4.57.3
+decord==0.6.0
+opencv-python-headless==4.12.0.88
+moviepy
+FlagEmbedding
+ultralytics
+## pytorchvideo 仅在 video_decode_backend='pytorchvideo' 时需要
